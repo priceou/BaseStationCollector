@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".Baidumaptest">
+
+    <item android:id="@+id/btn_backcenter"
+            android:title="Back to user position"
+        ></item>
+
+    <item android:id="@+id/btn_showcellinfo"
+        android:title="refresh base station"></item>
+
+
+    <item android:id="@+id/btn_showsignal"
+        android:title="refresh signal info"
+        ></item>
+</menu>
