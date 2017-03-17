@@ -32,7 +32,7 @@
 
         <meta-data
             android:name="com.baidu.lbsapi.API_KEY"
-            android:value="EHPPZZ02g4cETcQvL92t1HmSNr8gTt2H" />
+            android:value="your_key" />
 
         <activity android:name=".Baidumaptest" />
 
